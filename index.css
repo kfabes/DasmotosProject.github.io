@@ -4,6 +4,7 @@ h1 {
     font-weight: bold;
     color: khacki;
     background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg);
+    text-align: center;
 }
 
 h3 {
@@ -14,7 +15,7 @@ h3 {
     background-color: mediumspringgreen;
 }
 
-.brushes {
+span, .brushes {
     font-family: Helvetica;
     font-weight: bold;
     color: blue;
@@ -22,4 +23,6 @@ h3 {
 
 p {
     font-family: Helvetica;
+    font-size: 12px
+        color: black;
 }

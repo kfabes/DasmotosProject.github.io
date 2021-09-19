@@ -7,7 +7,7 @@ h1 {
     text-align: center;
 }
 
-h3 {
+h3, .brushes, .frames {
     font-family:Helvetica;
     font-size: 32px;
     font-weight: 32px;
@@ -15,13 +15,13 @@ h3 {
     background-color: mediumspringgreen;
 }
 
-span, .brushes {
+span, .brushes, .frames {
     font-family: Helvetica;
     font-weight: bold;
     color: blue;
 }
 
-h4 {
+h4, .hacksawbrushes, .artframes{
     font-family: Helvetica;
     font-size: 14px;
     font-weight: bold;

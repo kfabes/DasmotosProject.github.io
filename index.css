@@ -21,6 +21,13 @@ span, .brushes {
     color: blue;
 }
 
+h4 {
+    font-family: Helvetica;
+    font-size: 14px;
+    font-weight: bold;
+    color: black;
+}
+
 p {
     font-family: Helvetica;
     font-size: 12px

@@ -13,3 +13,9 @@ h3 {
     color: white;
     background-color: mediumspringgreen;
 }
+
+.brushes {
+    font-family: Helvetica;
+    font-weight: bold;
+    font-color: blue;
+}

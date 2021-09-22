@@ -22,10 +22,10 @@ h3.frames {
     color: white;
     background-color: red;
 
-span {
+*span {
     font-family: Helvetica;
     font-size: 12px;
-    font-weight: 12px;
+    font-weight: bold;
     color: blue;
 }
 
@@ -33,11 +33,11 @@ span {
 h4 {
     font-family: Helvetica;
     font-size: 14px;
-    font-weight: 14px;
+    font-weight: bold;
     color: black;
     }
 
-p {
+*p {
     font-family: Helvetica;
     font-size: 12px;
     font-weight; 12px;

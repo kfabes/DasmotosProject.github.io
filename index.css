@@ -22,7 +22,7 @@ h3.frames {
     color: white;
     background-color: red;
 
-span.brush-cost {
+span {
     font-family: Helvetica;
     font-size: 12px;
     font-weight: bold;
@@ -39,7 +39,7 @@ h4 {
 
 p {
     font-family: Helvetica;
-    font-weight: normal;
-    font-size: 12px
+    font-size: 12px;
+    font-weight; normal;
     color: black;
 }

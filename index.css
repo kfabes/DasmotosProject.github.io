@@ -24,6 +24,7 @@ h3.frames {
 
 span.brush-cost {
     font-family: Helvetica;
+    font-size: 12px;
     font-weight: bold;
     color: blue;
 }

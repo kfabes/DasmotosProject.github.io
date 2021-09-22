@@ -8,7 +8,7 @@ h1 {
 }
 
 h3.brushes { 
-    font-family:Helvetica;
+    font-family: Helvetica;
     font-size: 32px;
     font-weight: 32px;
     color: white;
@@ -16,7 +16,7 @@ h3.brushes {
 }
 
 h3.frames {
-       font-family:Helvetica;
+    font-family: Helvetica;
     font-size: 32px;
     font-weight: 32px;
     color: white;
@@ -36,7 +36,7 @@ h4.hacksawbrushes {
 }
 
 h4.artframes {
-     font-family: Helvetica;
+    font-family: Helvetica;
     font-size: 14px;
     font-weight: bold;
     color: black;
